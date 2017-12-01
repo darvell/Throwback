@@ -1,0 +1,30 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Speed-E Scan",
+    "description": "Speeds up the platter safely while scanning.\nThe box claims it can speed up the scan by up to 10% and is legitimate.",
+    "personal_cost": 200.0,
+    "business_cost": 1500.0
+  },
+  {
+    "id": 2,
+    "name": "Sector Slapper",
+    "description": "New from MichaelSoft, this magical piece of hardware will slap bad sectors in to place and can make a bad sector be good.\nUnfortunately some reviewers say it can just cause more bad sectors and you won't get your money back.",
+    "personal_cost": 1800,
+    "business_cost": 10000
+  },
+  {
+    "id": 3,
+    "name": "Online Scanning",
+    "description": "Allows users to access their data during a scanning operation for 5 minutes. Reduces scan rate but allows business profit loss to decrease momentarily depending on how much data has been scanned.",
+    "personal_cost": 250,
+    "business_cost": 1000
+  },
+  {
+    "id": 4,
+    "name": "XTREME OV3RCLOCK",
+    "description": "Speeds up scan by a large factor for 1 minute. Increased chance of corruption during operation.",
+    "personal_cost": 400,
+    "business_cost": 3000
+  }
+]
